@@ -1,4 +1,5 @@
 # AREP - Taller LLMChatGPTlive
+## Autor: Cristian David Naranjo Orjuela
 
 El propósito de este taller es desarrollar una aplicación web básica para la traducción de texto utilizando LangChain y un modelo de lenguaje LLM.
 
@@ -72,4 +73,4 @@ RemoteRunnable: Este componente permite al cliente interactuar con el servidor d
 
 
 
-## Autor: Cristian David Naranjo Orjuela
+
