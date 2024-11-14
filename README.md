@@ -7,7 +7,7 @@ El propósito de este taller es desarrollar una aplicación web básica para la 
 Para ejecutar la aplicación es necesario instalar Python 3.12.7 o versiones similares y git. El primer paso es clonar el repositorio e ingresar a la carpeta resultante
 
 ```
-https://github.com/cristiandavid0124/RagchatGPTliveArem.git
+https://github.com/cristiandavid0124/LangChainLLMChainArem.git
 ````
 
 en el archivo del server deve poner la clave que asigno el profe en este caso quitele la frase " holaaaaa "al inicio de la llave debido  que github no deja colocarla
